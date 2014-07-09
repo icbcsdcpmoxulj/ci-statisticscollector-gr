@@ -45,11 +45,6 @@
 			<version>2.1.8</version>
 		</dependency>
 		<dependency>
-			<groupId>log4j</groupId>
-			<artifactId>log4j</artifactId>
-			<version>1.2.16</version>
-		</dependency>
-		<dependency>
 			<groupId>ci.xlj.libs</groupId>
 			<artifactId>ci-utils</artifactId>
 			<version>1.0.0</version>
