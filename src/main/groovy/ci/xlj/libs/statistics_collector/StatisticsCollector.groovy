@@ -28,6 +28,12 @@ import org.apache.http.util.EntityUtils
 
 import ci.xlj.libs.utils.StringUtils
 
+/**
+ * Provides the funtionality of collecting statistics from users.
+ * 
+ * @author kfzx-xulj
+ *
+ */
 class StatisticsCollector {
 
 	private static Logger logger = Logger.getLogger("ci.xlj.libs.statistics_collector.StatisticsCollector")
